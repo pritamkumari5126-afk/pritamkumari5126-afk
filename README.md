@@ -1,3 +1,4 @@
+
 # Hi there, I'm Pritam Kumari! 👋
 
 I am a Computer Science Engineering student passionate about software development, Java programming, and building smart tech solutions.
@@ -12,4 +13,3 @@ I am a Computer Science Engineering student passionate about software developmen
 
 ---
 📫 **How to reach me:** Connect with me on LinkedIn via the link on my profile page!
-
